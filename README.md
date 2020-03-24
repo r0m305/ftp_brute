@@ -13,7 +13,7 @@
                          /                        /            / |    / 
 Bruteforce speed can be changed in the code by modifying the sleep time after starting each thread.
 Happy hacking!!
-
+After a successful ftp login, the credentials are automatically stored in an sqlite3 database
 Usage: ftp_brute.py [options]
 
 Options:

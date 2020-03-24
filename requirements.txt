@@ -1,0 +1,4 @@
+codecs
+tqdm
+colorama
+termcolor

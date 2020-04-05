@@ -1,4 +1,2 @@
 codecs
-tqdm
 colorama
-termcolor
